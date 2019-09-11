@@ -1,5 +1,6 @@
 def new_hash
-  l = hash.new
+  x = hash.new
+  return x
 end
 
 def actor
